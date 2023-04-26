@@ -1,4 +1,4 @@
-# RGBA-image-encode-to-webp-avif-jp2-with-buffer
+# RGBA-image-encode-to-webp-avif-with-buffer
 
 usage: 
 
